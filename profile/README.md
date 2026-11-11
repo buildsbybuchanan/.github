@@ -11,6 +11,6 @@ Cape Town software and automation company building production-ready business sys
 
 ## Also at BuildsByBuchanan
 
-Monthlys (Period and ovulation Tracker), BBBSTORE (app store), Layla IDE and LaylaOS, API Syndicate, and client systems. These repositories are private.
+Monthlys (Period and ovulation Tracker), BBBSTORE (app store), Layla IDE and LaylaOS and API Syndicate. These repositories are private.
 
 BuildsByBuchanan (PTY) LTD · Reg. 2026/370856/07 · B-BBEE Level 1 · Cape Town
